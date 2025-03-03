@@ -1,0 +1,8 @@
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Mongodb
+- Mongoose
+- Zod
+- React hook form
